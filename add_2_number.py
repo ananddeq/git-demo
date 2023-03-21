@@ -1,7 +1,6 @@
 # Store input numbers
-num1 = input('Enter first number: ')
-num2 = input('Enter second number: ')
-
+num1 = 56
+num2 = 4
 # Add two numbers
 sum = float(num1) + float(num2)
 
