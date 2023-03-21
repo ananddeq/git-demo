@@ -1,0 +1,1 @@
+As the previous line tells you, the branch is being set up to track the remote branch, which usually means the origin/branch_name branc
